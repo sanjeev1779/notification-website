@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Notification Website for managing templates and users!!';
+  title = 'Notification Website';
 }
